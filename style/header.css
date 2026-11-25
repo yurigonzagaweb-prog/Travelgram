@@ -19,6 +19,12 @@ header .container{
     max-width: 384px;
 }
 
+#profile img {
+    max-width: 176px;
+    max-height: 176px;
+    object-fit: cover;
+    border-radius: 50%;
+}
 
 #profile h1 {
     font-family: var(--text-lg);
